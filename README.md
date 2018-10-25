@@ -1,6 +1,11 @@
 # Classroom Front-end
 
-# Rules
+
+## Test
+
+https://docs.google.com/forms/d/e/1FAIpQLSfrRz085RmjqEc99Cjm0I-xaD0mH1Ww5nWrYcneEjF3HChDkg/viewform
+
+## Rules
 
 1) Learn and develop yourself
 2) Ask a question
@@ -11,16 +16,20 @@
 
 
 
-# Site
+## Site
 
-1)http://htmlbook.ru/html  - html+css (rus)
-2)https://www.w3schools.com - html+css+js (eng)
-3)https://www.codewars.com/dashboard  - js task (eng)
+1. This site [html+css (rus)](https://pages.github.com/).
+2. This site [html+css+js (eng)](https://www.w3schools.com).
+3. This site [js task (eng)](ttps://www.codewars.com/dashboard ).
 
-#Contact
 
-1) tel - +380660676933
-2) email - vitalikmelnik20000@gmail.com
+
+## Contact
+
+### tel
+> +380660676933
+#### email
+> vitalikmelnik20000@gmail.com
 
 
 
